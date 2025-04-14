@@ -1,0 +1,22 @@
+{
+  "name": "type-challenges",
+  "version": "1.0.0",
+  "description": "Solutions for TS challenges from https://github.com/type-challenges/type-challenges/tree/main",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulyavrubel/type-challenges.git"
+  },
+  "author": "Uliana Sichkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ulyavrubel/type-challenges/issues"
+  },
+  "homepage": "https://github.com/ulyavrubel/type-challenges#readme",
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
